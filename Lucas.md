@@ -1,4 +1,4 @@
-(Go back to the information about tornous)[https://tornous.github.io/Tornous-Info]
+[Go back to the information about tornous](https://tornous.github.io/Tornous-Info)
 # Lucas Mutter
 ## Information
 ### Complicated format
@@ -17,6 +17,6 @@
 ### Just Normal
 Lucas is the Founder of Tornous, His mother is "Nicole Mutter" and his father is `CLASSIFIED`
 #### Social
-(github)[https://www.github.com/lucasgames8957]
+[github](https://www.github.com/lucasgames8957)
 ## Message
 > I like making stuff and making "Tornous" is a part of that... I hope this continues to grow
