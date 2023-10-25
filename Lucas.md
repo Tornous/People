@@ -1,7 +1,7 @@
 # Lucas Mutter
 ## Information
 ### Complicated format
-```JSON
+```
 "Rank"="Owner"
 "Founder"=true
 "Mother"="Nicole Mutter"
