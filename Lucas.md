@@ -13,6 +13,7 @@
 "birthdate"= "07/23/2009"
 "Dead?"= false
 "deathdate"= unknown
+"Home"= "somewhere in Christiansburg"
 ```
 ### Just Normal
 Lucas is the Founder of Tornous, His mother is "Nicole Mutter" and his father is `CLASSIFIED`
