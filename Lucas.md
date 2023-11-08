@@ -28,7 +28,7 @@
 "Picture"= "none due to owner's intent"
 "dateofleave"= unknown
 "dateofjoin"= "JUL 23RD 2020 (CREATION DATE)"
-"Lastedit"= "NOV 8TH 2023, 13:12"
+"Lastedit"= "NOV 8TH 2023, 13:12 EST"
 "contactemail"= "Lucas-Mutter@outlook.com"
 "contactphone#"= "Known but not provided due to privacy and this person does not want random calls"
 ```
